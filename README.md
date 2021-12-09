@@ -1,5 +1,9 @@
 ## Welcome to M.Hoang's page
 Tôi là Lê Minh Hoàng - lớp KHMT2021
+* MSSV: 21522089
+* Ngày sinh: 10/08/2003
+
+Sở thích của mình là ca hát, chơi đàn, nấu ăn
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
